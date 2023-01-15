@@ -1,2 +1,3 @@
-# MCB-Technical-Assessment
-MCB Technical SQL Assessment_Lavlesh_Foolmaun
+# MCB-Technical-Assessment By Lavlesh Foolmaun
+
+Please Find Here My Technical SQL Assessment
