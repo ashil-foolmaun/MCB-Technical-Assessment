@@ -1,0 +1,6 @@
+  
+BEGIN
+
+  ORDER_AND_TOTAL_AMOUNT();
+
+END;

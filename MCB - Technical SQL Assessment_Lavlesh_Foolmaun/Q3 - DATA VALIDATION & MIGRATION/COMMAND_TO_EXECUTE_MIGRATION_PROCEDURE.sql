@@ -1,0 +1,3 @@
+BEGIN
+  BCM_DB_MIGRATION();
+END;
